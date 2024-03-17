@@ -62,17 +62,29 @@ Curriculum Vitae; CV; Bio; Lebenslauf; Scientific Profile; Literature, Products 
 
 ### **Significant Publications**
 
-- Stelzer, E.H.K., et al. (2021). "Light sheet fluorescence microscopy." *Nature Reviews Methods Primers*, 1, 73.
-- Gebel, J., et al. (2020). "p63 uses a switch-like mechanism to set the threshold for induction of apoptosis." *Nature Chemical Biology*, 16(10), 1078-1086.
-- Keller, P.J., et al. (2010). "Fast, high-contrast imaging of animal development with scanned light sheet-based structured-illumination microscopy." *Nature Methods*, 7(8), 637-642.
+Some important publications:
+
+1.	**Stelzer EHK**, Strobl F, Chang BJ, Preusser F, Preibisch S, McDole K, Fiolka R (2021) Light sheet fluorescence microscopy. _Nature Reviews Methods_ Primers 1, 73. doi.org/10.1038/s43586-021-00069-4.
+2.	Strobl F, **Stelzer EHK** (2021) A deterministic genotyping workflow reduces waste of transgenic individuals by two-thirds. _Sci Rep_ 11(15325). doi.org/10.1038/s41598-021-94288-0.
+3.	Gebel J, Tuppi M, Chaikuad A, Hötte K, Schröder M, Schulz L, Löhr F, Gutfreund N, Finke F, Henrich E, Mezhyrova J, Lehnert R, Pampaloni F, Hummer G, **Stelzer EHK**, Knapp S, Dötsch V (2020) p63 uses a switch-like mechanism to set the threshold for induction of apoptosis. _Nature Chemical Biology_ 16(10):1078-1086. doi: 10.1038/s41589-020-0600-3. PMID: 32719556.
+4.	von Wangenheim D, Banda J, Schmitz A, Boland J, Bishopp A, Maizel A, **Stelzer EHK**, Bennett M (2020) Early developmental plasticity of lateral roots in response to asymmetric water availability. _Nature Plants_ 6(2):73-77. doi: 10.1038/s41477-019-0580-z. PMID: 32015516.
+5.	Pampaloni F, Reynaud EG, **Stelzer EHK** (2007) The third dimension bridges the gap between cell culture and live tissue, _Nature Reviews Molecular Cell Biology_ 8(10):839-845.
+6.	Chang BJ, Perez Meza VD, **Stelzer EHK** (2017) csiLSFM combines light-sheet fluorescence microscopy and coherent structured illumination for a lateral resolution below 100 nm, _PNAS_ 114(19):4869-4874.
+7.	**Stelzer EHK** (2015) Light-sheet fluorescence microscopy for quantitative biology, Nature Methods, 12(1):23–27.
+8.	Keller PJ, Schmidt AD, Santella A, Khairy K, Bao Z, Wittbrodt J, **Stelzer EHK** (2010) Fast, high-contrast imaging of animal development with scanned light sheet-based structured-illumination microscopy, _Nature Methods_ 7(8):637-642.
+9.	Keller PJ, Schmidt AD, Wittbrodt J, **Stelzer EHK** (2008) Reconstruction of zebrafish early embryonic development by Scanned Light Sheet Microscopy, _Science_, 322(5904):1065-1069.
+10.	Huisken J, Swoger J, Del Bene F, Wittbrodt J, **Stelzer EHK** (2004) Optical sectioning deep inside live embryos by selective plane illumination microscopy, _Science_ 305:1007-1009.
+11.	**Stelzer EHK**, Lindek S (1994) Fundamental reduction of the observation volume in far-field light microscopy by detection orthogonal to the illumination axis: confocal theta microscopy. _Optics Communications_ 111:536-547.
+12.	Hell S, **Stelzer EHK** (1992) Properties of a 4Pi confocal fluorescence microscope. _Journal of the Optical Society of America A_, 9(12), 1259–2166.
+
 
 ### **Metrics and Impact**
 
-- **Web of Science ResearcherID:** A-7648-2011 | **Sum citations:** >18,000 (without self-citations) | **h-index:** 64 based on 270 publications.
-- **Google Scholar:** Sum citations 29,958 | **h-index:** 
-77. **ORCID:** [0000-0003-1545-0736](http://orcid.org/0000-0003-1545-0736).
+- **Web of Science ResearcherID:** A-7648-2011 | **Sum citations:** >18,000 (without self-citations) | **h-index:** 64 (>270 publications).
+- **Google Scholar:** EV5RvqkAAAAJ | **Sum citations:** >33,800 | **h-index:** 82. [Google Scholar](https://scholar.google.com/citations?user=EV5RvqkAAAAJ&hl=de).
+- **ORCID:** [0000-0003-1545-0736](http://orcid.org/0000-0003-1545-0736).
 
-### **Third-party Funding (Last Five Years)**
+### **Third-party Funding (Last Ten Years)**
 
 Secured a total of **€12 million** in funding from diverse sources, including the CEF-MC I&II, the European Union (3×EU), the German Research Foundation (4×DFG), the Federal Ministry of Education and Research (3×BMBF), and the State Offensive for the Development of Scientific and Economic Excellence (2×LOEWE).
 
