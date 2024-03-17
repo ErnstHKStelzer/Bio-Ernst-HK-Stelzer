@@ -1,6 +1,25 @@
 # Bio-Ernst-HK-Stelzer
 Curriculum Vitae; CV; Bio; Lebenslauf; Scientific Profile; Literature, Products and Patents References
 
+## **Invention of Light Sheet Fluorescence Microscopy (LSFM)**
+
+Light sheet fluorescence microscopy (LSFM), also known as selective plane illumination microscopy (SPIM), represents a significant advancement in the field of fluorescence microscopy. The technique is distinguished by its innovative use of a sheet of light to selectively illuminate a plane of the specimen, thereby minimizing photodamage and photobleaching while enabling high-resolution, long-term imaging of live specimens.
+
+### **Key Contributions**
+
+The conceptual foundation and development of LSFM are credited to **Ernst H.K. Stelzer** and his team at the **European Molecular Biology Laboratory (EMBL)** in Heidelberg, Germany. Their pioneering work has been instrumental in demonstrating the technique's potential and optimizing it for biological research applications.
+
+### **Advancements and Impact**
+
+- **Minimized Photodamage:** LSFM significantly reduces the exposure of specimens to damaging light, allowing for longer observation periods without compromising the health of the specimen.
+- **Enhanced Imaging:** The technique provides high-resolution images of live specimens, making it an invaluable tool for studying dynamic biological processes, especially in developmental biology.
+- **Broad Applications:** Since its introduction, LSFM has revolutionized various research fields by offering a powerful tool for detailed and dynamic imaging of complex biological systems.
+
+### **Conclusion**
+
+The invention and refinement of Light Sheet Fluorescence Microscopy by Ernst H.K. Stelzer and colleagues mark a pivotal moment in microscopy and biological imaging. Through their efforts, LSFM has emerged as a cornerstone technique that continues to expand our understanding of life at the microscopic level.
+
+---
 
 # **Curriculum Vitae**
 ## **Prof. Dr. Ernst Hans Karl Stelzer**
