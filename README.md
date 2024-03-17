@@ -1,7 +1,7 @@
 # Bio-Ernst-HK-Stelzer
 Curriculum Vitae; CV; Bio; Lebenslauf; Scientific Profile; Literature, Products and Patents References
 
-## **Invention of Light Sheet Fluorescence Microscopy (LSFM)**
+# **Invention of Light Sheet Fluorescence Microscopy (LSFM)**
 
 Light sheet fluorescence microscopy (LSFM), also known as selective plane illumination microscopy (SPIM), represents a significant advancement in the field of fluorescence microscopy. The technique is distinguished by its innovative use of a sheet of light to selectively illuminate a plane of the specimen, thereby minimizing photodamage and photobleaching while enabling high-resolution, long-term imaging of live specimens.
 
@@ -24,16 +24,16 @@ The invention and refinement of Light Sheet Fluorescence Microscopy by Ernst H.K
 # **Curriculum Vitae**
 ## **Prof. Dr. Ernst Hans Karl Stelzer**
 
-### **Personal Details**
-
-- **Family Name:** Stelzer
-- **Given Name:** Ernst Hans Karl
-- **Date of Birth:** January 5, 1959
-- **Place of Birth:** Frankfurt am Main, Germany
-- **Nationality:** German
-- **Family Status:** Married since December 1983, father to two children and grandfather to two grandchildren
-- **Private Address:** Eschelbronner Straße 79, D-74909 Meckesheim, Germany
-- **Contact Information:** Phone: +49 (69) 798 42547 | Email: ernst.stelzer@physikalischebiologie.de
+| Personal Details |   |
+| :-------- | -------: |
+| **Family Name:** | Stelzer |
+| **Given Name:** | Ernst Hans Karl |
+| **Date of Birth:** | January 5, 1959 |
+| **Place of Birth:** | Frankfurt am Main, Germany |
+| **Nationality:** | German |
+| **Family Status:** | Married, to two children and two grandchildren |
+| **Private Address:** | Eschelbronner Straße 79, D-74909 Meckesheim, Germany |
+| **Contact Information:** | Phone: +49 (69) 798 42547 | Email: ernst.stelzer@physikalischebiologie.de |
 
 ### **Current Positions**
 
@@ -125,3 +125,77 @@ In recognition of his groundbreaking work, **light sheet-based fluorescence micr
 ---
 
 This restructured and enhanced curriculum vitae presents Prof. Dr. Ernst Hans Karl Stelzer not only as a distinguished academic and researcher but also highlights his global impact on the fields of physical biology and microscopy. His contributions extend beyond academia, influencing the development of technologies that enhance our understanding of biological systems at the microscale.
+
+
+Certainly! Below is the requested list, formatted in Markdown:
+
+---
+
+# **Selection Patents Related to CFM, PFM and LSFM**
+
+1. **Konfokales Mikroskop (Confocal Microscope)**  
+   - **Inventors:** Stelzer EHK, Lindek S, Pick R  
+   - **Patent Office:** Deutsches Patent- und Markenamt  
+   - **Patent Number:** DE 43 26 473  
+   - **Filing Date:** 6 August 1993  
+   - **Grant Date:** 6 December 1996  
+   - **Publication Date of Grant:** 15 May 1997
+
+2. **Konfokales Mikroskop mit Doppelobjektiv-System (Confocal Microscope with Dual Objective System)**  
+   - **Inventors:** Stelzer EHK, Lindek S  
+   - **Patent Office:** Deutsches Patent- und Markenamt  
+   - **Patent Number:** DE 196 29 725  
+   - **Filing Date:** 23 July 1996  
+   - **Grant Date:** 19 December 1997  
+   - **Disclosure Date:** 5 February 1998
+
+3. **Strahlumlenkeinheit zur mehrachsigen Untersuchung in einem Mikroskop (Beam Diverter Unit for Multiaxial Investigation in a Microscope)**  
+   - **Inventors:** Stelzer EHK, Lindek S  
+   - **Patent Office:** European Patent Office  
+   - **Patent Number:** EP 0 859 968  
+   - **Filing Date:** 22 July 1997  
+   - **Publication and Announcement of Grant:** 25 February 2004 (Patentblatt 2004/09)
+
+4. **Konfokales Theta-Mikroskop (Confocal Theta-Microscope)**  
+   - **Inventors:** Stelzer EHK, Lindek S, Stefany T, Swoger J  
+   - **Patent Office:** Europäisches Patentamt  
+   - **Patent Number:** EP 1 019 769 B1  
+   - **Filing Date:** 27 July 1999  
+   - **Publication and Announcement of Grant:** 29 September 2004 (Patentblatt 2004/40)
+
+5. **Verfahren und Anordnung zur konfokalen Mikroskopie (Method and Arrangement for Confocal Microscopy)**  
+   - **Inventors:** Tille S, Simon U, Möhler G, Wilhelm S, Meisel U, Stelzer EHK  
+   - **Patent Office:** European Patent Office  
+   - **Patent Number:** EP 0 977 069 A2  
+   - **Filing Date:** 1 July 1999
+
+6. **Verfahren zur dreidimensionalen Abtastung (Method for Three-Dimensional Scanning)**  
+   - **Inventors:** Florin EL, Hörber JKH, Stelzer EHK  
+   - **Patent Office:** Deutsches Patent- und Markenamt  
+   - **Patent Number:** DE 199 39 574  
+   - **Filing Date:** 27 August 1999
+
+7. **Verfahren und Anordnung zur konfokalen Mikroskopie (Method and Arrangement for Confocal Microscopy)**  
+   - **Inventors:** Stelzer EHK, Stefany T, Lindek S, Swoger J  
+   - **Patent Office:** Deutsches Patent- und Markenamt  
+   - **Patent Number:** 198 61 363.6 (Division of parent patent DE 198 29 981.8)  
+   - **Filing Date:** 25 February 2005
+
+8. **Microscope with a Viewing Direction Perpendicular to the Illumination Direction**  
+   - **Inventors:** Stelzer EHK, Huisken J, Enders S, Swoger J, Lindek S  
+   - **Patent Office:** Europäisches Patentamt  
+   - **International Application Number:** PCT/EP 03/05991  
+   - **Filing Date:** 6 June 2003  
+   - **International Publication Number:** WP 2004/053558 A1  
+   - **International Publication Date:** 24 June 2004
+
+9. **Microscope with a Viewing Direction Perpendicular to the Illumination Direction**  
+   - **Inventors:** Stelzer EHK, Enders S, Huisken J, Lindek S, Swoger J  
+   - **Patent Office:** United States Patent Office  
+   - **Patent Number:** US 7,554,725 B2  
+   - **Date of Patent:** 30 June 2009
+   - **Application No.:** US 10/538,081  
+   - **PCT Filed:** 6 June 2003  
+   - **PCT No.:** PCT/EP03/05991
+
+---
