@@ -35,8 +35,8 @@ The invention and refinement of Light Sheet Fluorescence Microscopy by Ernst H.K
 | **Nationality:** | German |
 | **Family Status:** | Married, two children and two grandchildren |
 | **Private Address:** | Meckesheim close to Heidelberg, Germany |
-| **Phone @ Goethe University:** | +49 (69) 798 42547 | Email: ernst.stelzer@physikalischebiologie.de |
-| **E-Mail @ Goethe University:** | ernst.stelzer@physikalischebiologie.de |
+| **Phone @ Goethe-Universität:** | +49 (69) 798 42547 | Email: ernst.stelzer@physikalischebiologie.de |
+| **E-Mail @ Goethe-Universität:** | ernst.stelzer@physikalischebiologie.de |
 
 ### **Current Positions**
 
