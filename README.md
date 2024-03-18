@@ -1,9 +1,11 @@
 # Bio-Ernst-HK-Stelzer
 Curriculum Vitae; CV; Bio; Lebenslauf; Scientific Profile; Literature, Products and Patents References
 
+---
+
 # **Invention of Light Sheet Fluorescence Microscopy (LSFM)**
 
-Light sheet fluorescence microscopy (LSFM), also known as selective plane illumination microscopy (SPIM), represents a significant advancement in the field of fluorescence microscopy. The technique is distinguished by its innovative use of a sheet of light to selectively illuminate a plane of the specimen, thereby minimizing photodamage and photobleaching while enabling high-resolution, long-term imaging of live specimens.
+Light sheet fluorescence microscopy (LSFM), also known as single/selective plane illumination microscopy (SPIM), represents a significant advancement in the field of fluorescence microscopy. The technique is distinguished by its innovative use of a sheet of light to selectively illuminate a plane of the specimen, thereby minimizing photodamage and photobleaching while enabling high-resolution, long-term imaging of live specimens.
 
 ### **Key Contributions**
 
@@ -15,7 +17,7 @@ The conceptual foundation and development of LSFM are credited to **Ernst H.K. S
 - **Enhanced Imaging:** The technique provides high-resolution images of live specimens, making it an invaluable tool for studying dynamic biological processes, especially in developmental biology.
 - **Broad Applications:** Since its introduction, LSFM has revolutionized various research fields by offering a powerful tool for detailed and dynamic imaging of complex biological systems.
 
-### **Conclusion**
+### **Outlook**
 
 The invention and refinement of Light Sheet Fluorescence Microscopy by Ernst H.K. Stelzer and colleagues mark a pivotal moment in microscopy and biological imaging. Through their efforts, LSFM has emerged as a cornerstone technique that continues to expand our understanding of life at the microscopic level.
 
@@ -31,26 +33,28 @@ The invention and refinement of Light Sheet Fluorescence Microscopy by Ernst H.K
 | **Date of Birth:** | January 5, 1959 |
 | **Place of Birth:** | Frankfurt am Main, Germany |
 | **Nationality:** | German |
-| **Family Status:** | Married, to two children and two grandchildren |
-| **Private Address:** | Eschelbronner Straße 79, D-74909 Meckesheim, Germany |
-| **Contact Information:** | Phone: +49 (69) 798 42547 | Email: ernst.stelzer@physikalischebiologie.de |
+| **Family Status:** | Married, two children and two grandchildren |
+| **Private Address:** | Meckesheim close to Heidelberg, Germany |
+| **Phone @ Goethe University:** | +49 (69) 798 42547 | Email: ernst.stelzer@physikalischebiologie.de |
+| **E-Mail @ Goethe University:** | ernst.stelzer@physikalischebiologie.de |
 
 ### **Current Positions**
 
-- **W3 Professor, Vice Dean (Research), FB15**
+- **W3 Professor, Vice Dean (Research),** FB15
+- **Affiliation,** Goethe-Universität Frankfurt am Main, Campus Riedberg, Max-von-Laue-Straße 15, D-60438 Frankfurt am Main, Germany
 - **Director,** Frankfurt Center for Advanced Light Microscopy
-- **Speaker,** RobustNature & Board Center for Critical Computational Studies
-- **Affiliation:** Goethe-Universität Frankfurt am Main, Campus Riedberg, Max-von-Laue-Straße 15, D-60438 Frankfurt am Main, Germany
+- **Co-Speaker,** RobustNature
+- **Board,** Center for Critical Computational Studies
 
 ### **Education**
 
-- **Ph.D.,** European Molecular Biology Laboratory (EMBL-Heidelberg), 1987. Supervised by Prof. Dr. Bille (Universität Heidelberg, Angewandte Physik) and Dr. rer. nat. habil. Männer (Physikalisches Institut).
-- **Diploma in Physics,** Johann-Wolfgang-Goethe-Universität, Frankfurt am Main, Germany, 1983. Thesis at Max-Planck-Institut für Biophysik, Frankfurt am Main.
+- **Ph.D.,** European Molecular Biology Laboratory (EMBL-Heidelberg), 1987 in the Group of Dr. Roelof Wijnaendts-van-Resandt. Supervised by Prof. Dr. Bille (Universität Heidelberg, Angewandte Physik) and Dr. rer. nat. habil. Männer (Physikalisches Institut).
+- **Diploma in Physics,** Johann-Wolfgang-Goethe-Universität, Frankfurt am Main, Germany, 1983 in the Group of Dr. Ernst Grell. Thesis at Max-Planck-Institut für Biophysik, Frankfurt am Main.
 
 ### **Professional Career Highlights**
 
 - **Professor** at Goethe-Universität Frankfurt am Main, since 2011.
-- Offered a **W3 Professorship** by Goethe-Universität Frankfurt am Main, 2009.
+- Offer **W3 Professorship** by Goethe-Universität Frankfurt am Main, 2009.
 - **Scientific Group Leader** at European Molecular Biology Laboratory (EMBL-Heidelberg), 1989-2011.
 - **Assistant,** Max-Planck-Institut für Biophysik, Frankfurt am Main, Germany, 1979-1983.
 
