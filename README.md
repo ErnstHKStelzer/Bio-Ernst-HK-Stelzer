@@ -204,7 +204,7 @@ Certainly! Below is the requested list, formatted in Markdown:
 
 ---
 
-[Mardown Guide Basics](https://www.markdownguide.org/basic-syntax/ "Covers basic features").
+[Markdown Guide Basics](https://www.markdownguide.org/basic-syntax/ "Covers basic features").
 
 <https://wolfram.com>
 
@@ -213,7 +213,14 @@ Certainly! Below is the requested list, formatted in Markdown:
 
 This is `code`, this text.
 
-Avoid ~~studpid~~ mistakes. Beer 🍺, beers 🍻. Highlight ==high==light.
-Subscript H~2~O, Superscript X^2^, Highlight ==very important==
+Avoid ~~studpid~~ mistakes.
+Beer 🍺, beers 🍻, Joy 😂,
+alarm clock ⏰,   
+shit 💩, anger 💢, disappointed 😞.
+
+Not available:
+- Highlight ==high==light.
+- Subscript H~2~O and Superscript X^2^.
+- Highlight ==very important==
 
  ![Tux, the Linux mascot](/assets/images/tux.png)
