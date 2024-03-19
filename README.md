@@ -214,13 +214,13 @@ Certainly! Below is the requested list, formatted in Markdown:
 This is `code`, this text.
 
 Avoid ~~studpid~~ mistakes.
-Beer 🍺, beers 🍻, Joy 😂,
+Beer 🍺, beers 🍻, Joy 😂,  
 alarm clock ⏰,   
 shit 💩, anger 💢, disappointed 😞.
 
-Not available:
-- Highlight ==high==light.
-- Subscript H~2~O and Superscript X^2^.
-- Highlight ==very important==
+> Not available:
+>> - Highlight ==high==light.
+>> - Subscript H~2~O and Superscript X^2^.
+>> - Highlight ==very important==
 
- ![Tux, the Linux mascot](/assets/images/tux.png)
+ ![Tux, the Linux mascot](images/MannheimRomulusRemusStatue_1024.jpg)
