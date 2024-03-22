@@ -209,7 +209,7 @@ Certainly! Below is the requested list, formatted in Markdown:
 <https://wolfram.com>
 
 - [x] Write the press release
-- [ ] Update the website
+- [-] Update the website
 
 This is `code`, this text.
 
@@ -223,4 +223,4 @@ shit 💩, anger 💢, disappointed 😞.
 >> - Subscript H~2~O and Superscript X^2^.
 >> - Highlight ==very important==
 
- ![Tux, the Linux mascot](images/MannheimRomulusRemusStatue_1024.jpg)
+ ![Romulus and Remus fed by a wolfess](images/MannheimRomulusRemusStatue_1024.jpg)
